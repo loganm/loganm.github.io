@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>A Jekyll Terrifying Blog</title>
+	<link href="/blog/feed.atom" rel="self" />
+	<link href="/" />
+	<id>/</id>
+	<author>
+		<name>Logan Moore</name>
+	</author>
+	<updated>2015-03-13T15:41:10+13:00</updated>
+
+	<entry>
+		<title type="text">First Blog Post</title>
+		<link href="/blog/2015/first-blog-post/" />
+		<id>/blog/2015/first-blog-post/</id>
+		<published>2015-03-13T00:00:00+13:00</published>
+		<updated>2015-03-13T00:00:00+13:00</updated>
+		<summary type="html">
+	
+
+
+First blog post
+
+</summary>
+		<content type="html">&lt;figure&gt;
+	&lt;img src=&quot;http://demo.krownthemes.com/jackman/img/blog_4.jpg&quot; alt=&quot;White Flowers&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;First blog post&lt;/p&gt;
+</content>
+	</entry>
+
+</feed>
